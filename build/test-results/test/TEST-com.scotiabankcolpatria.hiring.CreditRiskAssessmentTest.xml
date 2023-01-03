@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-01-03T17:04:56" hostname="ASW4565" time="0.026">
+  <properties/>
+  <testcase name="latePaymentProbabilityByPeriodTest1()" classname="com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest" time="0.018"/>
+  <testcase name="latePaymentProbabilityByPeriodTest2()" classname="com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest" time="0.001"/>
+  <testcase name="standardDeviationTest2()" classname="com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest" time="0.001"/>
+  <testcase name="standardDeviationTest()" classname="com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest" time="0.0"/>
+  <testcase name="maxPeakTest1()" classname="com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest" time="0.001"/>
+  <testcase name="maxPeakTest2()" classname="com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest" time="0.001"/>
+  <testcase name="maxPeakTest3()" classname="com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest" time="0.001"/>
+  <testcase name="maxPeakTest4()" classname="com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest" time="0.0"/>
+  <testcase name="maxPeakTest5()" classname="com.scotiabankcolpatria.hiring.CreditRiskAssessmentTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
